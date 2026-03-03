@@ -1,0 +1,5 @@
+#!/bin/bash
+
+curl https://ledgerly-server-sz9h.onrender.com/health
+curl https://ledgerly-web.onrender.com/
+curl https://smartvend.onrender.com/
